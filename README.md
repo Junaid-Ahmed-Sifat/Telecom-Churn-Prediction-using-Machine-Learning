@@ -1,4 +1,3 @@
-# Telecom-Churn-Prediction-using-Machine-Learning
 # **Strategic Analytics for Telecom Churn Prediction using Machine Learning Approaches**
 <br />
 
@@ -9,6 +8,8 @@ To address the challenge of churn prediction, machine learning models such as Lo
 
 <br />
 
+<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
+
 ## **Language**
 * Python
 
@@ -18,3 +19,5 @@ To address the challenge of churn prediction, machine learning models such as Lo
 * Logistic Regression
 * Random Forest
 * SVM
+
+</div>
